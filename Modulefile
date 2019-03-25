@@ -1,0 +1,7 @@
+name         'rfletcher-ctop'
+version      '0.0.1'
+license      'MIT License'
+summary      'A puppet module for ctop'
+description  'Install or remove ctop'
+project_page 'https://github.com/rfletcher/puppet-ctop'
+dependency   'maestrodev/wget', '>= 1.4.0'
